@@ -1,0 +1,781 @@
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:54:05.560199', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.224, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:54:17.086083', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.213, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:54:31.775363', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.2, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:54:43.350803', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.189, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:54:54.936711', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.183, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred (temp): Sensor 3ce1d443e1a7 is not yet ready to read temperature
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:55:09.718782', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.18, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:55:24.419973', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.178, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:55:35.969254', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.178, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:55:47.518088', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.173, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:55:59.038263', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.17, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:56:13.697988', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.17, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:56:25.245982', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.169, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:56:39.902504', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.166, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:56:51.485751', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.171, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:57:06.283516', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.172, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:57:17.878431', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.174, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:57:32.544767', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.178, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:57:44.125618', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.178, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:57:55.677501', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.189, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:58:10.373394', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.185, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:58:21.980850', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.197, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:58:36.695361', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.189, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:58:48.253846', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.199, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:59:03.010607', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.191, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:59:17.726784', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.169, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:59:29.282231', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.169, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T18:59:40.830488', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.171, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T18:59:55.546517', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.17, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:00:07.098190', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.17, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:00:18.657073', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.172, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:00:33.376233', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.171, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:00:44.959772', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.17, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:00:59.681346', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.171, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:01:11.254435', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.171, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:01:22.839276', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.172, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:01:37.506193', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.174, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:01:49.086212', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.176, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:02:00.609993', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.187, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:02:15.358348', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.179, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:02:26.910338', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.177, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:02:38.435493', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.176, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:02:53.150705', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.17, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:03:04.671930', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.159, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:03:16.200514', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.153, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:03:30.905708', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.162, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:03:42.435518', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.165, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:03:53.981848', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.182, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:04:05.501614', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.17, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:04:20.192107', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.167, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:04:31.775944', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.162, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:04:43.350320', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.163, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:04:54.882160', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.167, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:05:09.566430', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.187, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:05:21.154357', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.181, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:05:35.870168', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.183, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:05:47.391144', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.198, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:05:58.946161', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.2, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:06:10.529617', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.198, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:06:25.216936', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.194, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:06:36.766922', 'conductivity': 0.0, 'density': 998.753, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.188, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:06:51.454636', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.187, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:07:03.040764', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.183, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:07:14.621684', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.179, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:07:26.173970', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.174, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:07:40.831868', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.175, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:07:52.378209', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.173, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:08:03.936097', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.2, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:08:18.692854', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.557, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:08:30.289212', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.508, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:08:44.962019', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.466, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:08:56.541928', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.44, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:09:11.230538', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.379, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:09:22.785420', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.376, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:09:34.333769', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.348, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:09:49.014160', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.315, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:10:00.601763', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.298, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:10:15.256372', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.276, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:10:26.817429', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.262, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:10:38.422449', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.248, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:10:53.120247', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.231, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:11:04.672945', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.221, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:11:19.358040', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.204, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:11:30.941569', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.198, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:11:45.678566', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.186, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:11:57.271070', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.177, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:12:08.797525', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.169, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:12:23.464196', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.16, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:12:35.008700', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.154, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:12:49.726334', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.147, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:13:01.360847', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.143, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:13:16.090542', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.136, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:13:27.619519', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.131, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:13:39.201660', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.128, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:13:53.922058', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.123, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:14:05.473723', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.118, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:14:20.197147', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.115, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:14:31.804493', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.112, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:14:46.590647', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.108, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:14:58.145591', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.104, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:15:12.879129', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.102, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:15:24.418608', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.099, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:15:39.162616', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.099, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:15:50.724527', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.097, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:16:05.406760', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.097, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:16:16.985181', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.093, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:16:31.681063', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.094, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:16:43.233290', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.091, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:16:54.869759', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.089, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:17:09.573128', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.088, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:17:21.149679', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.087, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:17:35.807047', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.084, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:17:47.421917', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:17:58.980366', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.084, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:18:13.665081', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.084, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:18:25.213653', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.08, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:18:39.910121', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:18:51.553802', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.082, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:19:06.266455', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:19:17.795671', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.08, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:19:29.374397', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:19:44.031016', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:19:55.612432', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.082, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:20:07.181840', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.079, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:20:21.858015', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.078, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:20:33.439162', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.079, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:20:48.155192', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.076, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:20:59.702638', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.077, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:21:11.234058', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.077, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:21:25.975695', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.076, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:21:37.536787', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.079, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:21:52.226402', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.079, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:22:03.777436', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.079, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:22:18.463576', 'conductivity': 0.0, 'density': 17.514, 'salinity': 0.0, 'pressure': '5', 'temperature': -491.5625, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.078, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:22:30.020836', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.08, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:22:41.572497', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.078, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:22:56.294104', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:23:07.901582', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.079, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:23:22.626359', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:23:34.210534', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.079, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:23:48.898284', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.082, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:24:00.470381', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.08, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:24:15.225350', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:24:26.749829', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.82, 'pH': 8.08, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:24:41.374665', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.079, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:24:52.952628', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.08, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:25:04.482345', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:25:19.166809', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.082, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:25:30.749917', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.081, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:25:45.410773', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.082, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:25:56.993442', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.082, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:26:08.542185', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.083, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:26:23.263150', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.085, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:26:34.814829', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.084, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:26:49.503642', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.089, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:27:01.054530', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.086, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:27:12.574541', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.087, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:27:27.271731', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.088, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:27:38.849220', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.085, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:27:50.435929', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.087, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:28:05.113092', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.089, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:28:16.681387', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.088, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:28:31.382093', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.091, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:28:42.941737', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.091, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:28:54.461953', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.091, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:29:09.152991', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.093, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:29:20.737867', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.091, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:29:35.424701', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.094, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:29:47.029843', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.095, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:30:01.701080', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.094, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:30:13.274421', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.095, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:30:24.804909', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.097, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:30:39.518627', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.097, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:30:51.073990', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.099, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:31:02.621716', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.099, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:31:17.319657', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.098, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:31:28.893663', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.099, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:31:43.592707', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.1, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:31:55.166694', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.099, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:32:06.721064', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.101, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:32:21.445400', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.105, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:32:33.000821', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.104, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:32:47.677951', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.105, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:32:59.256555', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.104, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:33:10.783624', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.106, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:33:22.301551', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.106, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:33:36.958200', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.108, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:33:48.513216', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.111, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:34:03.200933', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.11, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:34:14.750149', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.109, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:34:26.275449', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.114, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:34:37.821873', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.113, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:34:52.510638', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.113, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:35:04.061661', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.113, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:35:18.782629', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.112, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:35:30.366146', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.11, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:35:45.022879', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.108, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:35:56.542413', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.111, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:36:08.125715', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.112, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:36:19.686673', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.113, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:36:34.390061', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.113, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:36:45.953723', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.114, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:37:00.669939', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.114, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:37:12.253836', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.114, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:37:26.949653', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.115, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:37:38.493837', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.81, 'pH': 8.115, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:37:50.014130', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.117, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:38:04.706792', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.118, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:38:16.286255', 'conductivity': 0.0, 'density': 999.757, 'salinity': 0.0, 'pressure': '5', 'temperature': -0.625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.118, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:38:30.942473', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.118, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:38:42.526497', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.117, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:38:57.238403', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.119, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:39:08.773312', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.118, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:39:20.353868', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.119, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:39:35.030320', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.118, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:39:46.637810', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.119, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:40:01.310144', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.122, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:40:12.862748', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.123, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:40:27.587523', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.121, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:40:39.193750', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.12, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:40:50.721607', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.122, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:41:05.385444', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.123, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:41:16.929543', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.122, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:41:31.648285', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.123, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:41:43.200225', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.121, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:41:57.889337', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.125, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:42:09.470289', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.123, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:42:24.158760', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.125, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:42:35.741140', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.123, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:42:47.313843', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.124, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:43:01.982034', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.124, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:43:13.503891', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.125, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:43:28.194506', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.126, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:43:39.743658', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.127, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:43:51.353214', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.124, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:44:06.015372', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.124, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:44:17.621376', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.125, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:44:32.291222', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.126, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:44:43.837296', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.126, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+An error occurred (O2): Invalid response format from DO sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:44:58.494903', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': None, 'pH': 8.127, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:45:10.018923', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.128, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:45:21.569542', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.128, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:45:36.226206', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.126, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:45:47.775085', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.124, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:46:02.498453', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.127, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:46:14.082425', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.126, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:46:28.830755', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.128, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:46:40.406158', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.128, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:46:51.936879', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.129, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:47:06.594565', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.128, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:47:18.177353', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.128, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:47:32.920549', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.129, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:47:44.448721', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.128, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:47:59.134530', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.13, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:48:10.713564', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.131, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:48:22.274467', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.129, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:48:36.961594', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.132, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:48:48.542308', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.131, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:49:03.232809', 'conductivity': 0.0, 'density': 998.762, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.4375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.133, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+Data sent to Vercel successfully: {'date': '2025-01-18T19:49:14.784939', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.138, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'
+An error occurred: could not convert string to float: 'þ'
+An error occurred (ORP): Invalid response format from ORP sensor
+Data sent to Vercel successfully: {'date': '2025-01-18T19:49:29.501694', 'conductivity': 0.0, 'density': 998.77, 'salinity': 0.0, 'pressure': '5', 'temperature': 20.375, 'turbidity': None, 'chlorophyll': '0', 'oxygen': 1.8, 'pH': 8.143, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: could not convert string to float: 'þ'

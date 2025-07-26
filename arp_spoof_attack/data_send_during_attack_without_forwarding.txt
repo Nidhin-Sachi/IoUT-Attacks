@@ -1,0 +1,78 @@
+
+>>> %Run vercel.py
+Data sent successfully: {'count': 1, 'message': 'Data received successfully!'}
+1: Data sent to Vercel successfully: {'date': '2025-02-02T18:43:48.486681', 'conductivity': 0.0, 'density': 998.617, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.207, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 2, 'message': 'Data received successfully!'}
+2: Data sent to Vercel successfully: {'date': '2025-02-02T18:43:56.966926', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.207, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 3, 'message': 'Data received successfully!'}
+3: Data sent to Vercel successfully: {'date': '2025-02-02T18:44:05.414969', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.208, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 4, 'message': 'Data received successfully!'}
+4: Data sent to Vercel successfully: {'date': '2025-02-02T18:44:13.862860', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.207, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 5, 'message': 'Data received successfully!'}
+5: Data sent to Vercel successfully: {'date': '2025-02-02T18:44:22.310834', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.207, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 6, 'message': 'Data received successfully!'}
+6: Data sent to Vercel successfully: {'date': '2025-02-02T18:44:30.758881', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.205, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 7, 'message': 'Data received successfully!'}
+7: Data sent to Vercel successfully: {'date': '2025-02-02T18:44:39.206869', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.207, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 8, 'message': 'Data received successfully!'}
+8: Data sent to Vercel successfully: {'date': '2025-02-02T18:44:47.654991', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.206, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 9, 'message': 'Data received successfully!'}
+9: Data sent to Vercel successfully: {'date': '2025-02-02T18:44:56.102800', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.21, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 10, 'message': 'Data received successfully!'}
+10: Data sent to Vercel successfully: {'date': '2025-02-02T18:45:04.550878', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.206, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 11, 'message': 'Data received successfully!'}
+11: Data sent to Vercel successfully: {'date': '2025-02-02T18:45:12.998701', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.204, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 12, 'message': 'Data received successfully!'}
+12: Data sent to Vercel successfully: {'date': '2025-02-02T18:45:21.447026', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.206, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 13, 'message': 'Data received successfully!'}
+13: Data sent to Vercel successfully: {'date': '2025-02-02T18:45:29.895003', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.201, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 14, 'message': 'Data received successfully!'}
+14: Data sent to Vercel successfully: {'date': '2025-02-02T18:45:38.342981', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.192, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 15, 'message': 'Data received successfully!'}
+15: Data sent to Vercel successfully: {'date': '2025-02-02T18:45:46.794697', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.193, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 16, 'message': 'Data received successfully!'}
+16: Data sent to Vercel successfully: {'date': '2025-02-02T18:45:55.238611', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.247, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 17, 'message': 'Data received successfully!'}
+17: Data sent to Vercel successfully: {'date': '2025-02-02T18:46:03.718957', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.215, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 18, 'message': 'Data received successfully!'}
+18: Data sent to Vercel successfully: {'date': '2025-02-02T18:46:12.166980', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.214, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 19, 'message': 'Data received successfully!'}
+19: Data sent to Vercel successfully: {'date': '2025-02-02T18:46:20.614999', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.21, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 20, 'message': 'Data received successfully!'}
+20: Data sent to Vercel successfully: {'date': '2025-02-02T18:46:29.062566', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.214, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 21, 'message': 'Data received successfully!'}
+21: Data sent to Vercel successfully: {'date': '2025-02-02T18:46:37.542909', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.22, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: HTTPConnectionPool(host='172.20.10.11', port=5000): Max retries exceeded with url: /sensor-data (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fff41f012d0>, 'Connection to 172.20.10.11 timed out. (connect timeout=None)'))
+Data sent successfully: {'count': 22, 'message': 'Data received successfully!'}
+23: Data sent to Vercel successfully: {'date': '2025-02-02T18:49:08.678893', 'conductivity': 0.0, 'density': 998.617, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.204, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 23, 'message': 'Data received successfully!'}
+24: Data sent to Vercel successfully: {'date': '2025-02-02T18:50:26.534880', 'conductivity': 0.0, 'density': 998.617, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.214, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 24, 'message': 'Data received successfully!'}
+25: Data sent to Vercel successfully: {'date': '2025-02-02T18:50:34.982850', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.209, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 25, 'message': 'Data received successfully!'}
+26: Data sent to Vercel successfully: {'date': '2025-02-02T18:50:43.430876', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.219, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 26, 'message': 'Data received successfully!'}
+27: Data sent to Vercel successfully: {'date': '2025-02-02T18:50:51.910858', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.217, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 27, 'message': 'Data received successfully!'}
+28: Data sent to Vercel successfully: {'date': '2025-02-02T18:51:00.358868', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.216, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 28, 'message': 'Data received successfully!'}
+29: Data sent to Vercel successfully: {'date': '2025-02-02T18:51:08.806898', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.216, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 29, 'message': 'Data received successfully!'}
+30: Data sent to Vercel successfully: {'date': '2025-02-02T18:51:17.254874', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.213, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 30, 'message': 'Data received successfully!'}
+31: Data sent to Vercel successfully: {'date': '2025-02-02T18:51:25.702947', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.215, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 31, 'message': 'Data received successfully!'}
+32: Data sent to Vercel successfully: {'date': '2025-02-02T18:51:34.150838', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.215, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 32, 'message': 'Data received successfully!'}
+33: Data sent to Vercel successfully: {'date': '2025-02-02T18:51:42.598880', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.211, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+An error occurred: HTTPConnectionPool(host='172.20.10.11', port=5000): Max retries exceeded with url: /sensor-data (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fff41f00710>, 'Connection to 172.20.10.11 timed out. (connect timeout=None)'))
+Data sent successfully: {'count': 33, 'message': 'Data received successfully!'}
+35: Data sent to Vercel successfully: {'date': '2025-02-02T18:54:13.830806', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.201, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 34, 'message': 'Data received successfully!'}
+36: Data sent to Vercel successfully: {'date': '2025-02-02T18:54:57.894801', 'conductivity': 0.0, 'density': 998.617, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.201, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+Data sent successfully: {'count': 35, 'message': 'Data received successfully!'}
+37: Data sent to Vercel successfully: {'date': '2025-02-02T18:55:06.346193', 'conductivity': 0.0, 'density': 998.609, 'salinity': 0.0, 'pressure': '5', 'temperature': 21.5625, 'turbidity': 1020.0, 'chlorophyll': '0', 'oxygen': 1.83, 'pH': 8.199, 'depth': '2', 'latitude': '123.311', 'longitude': '48.463', 'altitude': '2'}
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.11.2 (/usr/bin/python3)
+>>> 
